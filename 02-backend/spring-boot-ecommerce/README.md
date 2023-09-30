@@ -35,7 +35,7 @@ I used (https://spring.academy) courses to learn Spring Boot, Spring Security, S
 * [Desktop View]()
 
 ### Screenshots:
-* [Hompage]()
+* [Homepage]()
 * [Product Listing Page]()
 * [Shopping Cart]()
 * [Checkout Page]()
