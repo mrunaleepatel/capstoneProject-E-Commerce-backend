@@ -28,6 +28,9 @@ BudgetBazaar is an online e-commerce platform that specializes in offering a wid
 ### IDE Used:
 - IntelliJ IDEA
 
+### Learning tool:
+I used (https://spring.academy) courses to learn Spring Boot, Spring Security, Spring Data JPA, MySQL and for Angular I used (https://angular-university.io/home). 
+
 ### Mockups:
 * [Desktop View]()
 
